@@ -13,10 +13,6 @@
 
   <br/><br/>
 
-  <blockquote align="center">
-    <b>Recent Computer Science Graduate Building Practical AI Agents & RAG Systems</b>
-  </blockquote>
-
 </div>
 
 ---
