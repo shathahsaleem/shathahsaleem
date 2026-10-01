@@ -6,12 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=3776AB&center=true&vcenter=true&width=700&height=50&lines=I+build+containerized+backends.;I+build+software+with+guardrails.;I+explore+the+frontier+of+LLM+applications." alt="Typing Animation" />
 </div>
 
-  <a href="https://www.linkedin.com/in/shathahsaleem/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shathahsaleem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/shathahsaleem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shathahsaleem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
   <br/><br/>
 
