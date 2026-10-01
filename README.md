@@ -17,20 +17,6 @@
 
 </div>
 
----
-
-### Engineering Philosophy
-
-Most people think AI is going to replace engineers. Then they ask an LLM for places to go in Amman, specifically prompt *"don't recommend Mecca Mall,"* and receive a 5-paragraph essay on why they should visit Mecca Mall. Or they try to generate an image of their brother and end up with a complete stranger. 
-
-**My take is simple:**
-* AI doesn't magically build software; it hallucinates sources, forgets the story climax, and breaks edge cases.
-* Real software engineering is about **guardrails, schema enforcement, containerized infrastructure, and deterministic fallback logic.**
-
-I build backend infrastructure and agentic systems designed to perform reliably when real users are involved.
-
----
-
 ### Tech Stack & Toolkit
 
 **Languages**
