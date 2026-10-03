@@ -17,12 +17,20 @@
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Agentic AI & Orchestration**
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-4F46E5?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3D5A?style=flat-square&logo=langgraph&logoColor=white)
+![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent%20Orchestration-7928CA?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-2563EB?style=flat-square)
+![State Management](https://img.shields.io/badge/State%20Management-0D9488?style=flat-square)
 
 **Backend, Data & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -32,6 +40,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Data Science & Machine Learning**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -49,6 +58,8 @@
 ![UML System Modeling](https://img.shields.io/badge/UML%20System%20Modeling-7C3AED?style=flat-square)
 ![Requirements Engineering](https://img.shields.io/badge/Requirements%20Engineering-C05621?style=flat-square)
 ![Defensive Programming](https://img.shields.io/badge/Defensive%20Programming-9B2C2C?style=flat-square)
+![Fault Tolerance](https://img.shields.io/badge/Fault%20Tolerance-B91C1C?style=flat-square)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-0284C7?style=flat-square)
 
 **Developer Productivity & AI Tools**
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
@@ -57,12 +68,11 @@
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Currently Learning & Building With**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3D5A?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-EC1C24?style=flat-square)
-![Async Playwright](https://img.shields.io/badge/Async%20Playwright-2EAD33?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Async Playwright](https://custom-icon-badges.demolab.com/badge/Async%20Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Ragas](https://img.shields.io/badge/Ragas-FF6F00?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square)
-![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent%20Orchestration-7928CA?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
